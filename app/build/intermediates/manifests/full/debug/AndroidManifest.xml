@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="15" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -24,7 +24,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.akexorcist.googledirection.sample.AlternativeDirectionActivity"
+            android:name="com.akexorcist.googledirection.sample.Authentication"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -49,6 +49,7 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCBWrgN_x8AJ6umxzHTLmSnzKby-awKLdc" />
 
+        <activity android:name="com.akexorcist.googledirection.sample.AlternativeDirectionActivity" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

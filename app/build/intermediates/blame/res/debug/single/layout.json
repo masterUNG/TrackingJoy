@@ -128,6 +128,10 @@
         "source": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/build/intermediates/res/merged/debug/layout/activity_authentication.xml",
+        "source": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/src/main/res/layout/activity_authentication.xml"
+    },
+    {
         "merged": "/Users/masterUNG/Desktop/Android-GoogleDirectionLibrary-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/masterUNG/Desktop/Android-GoogleDirectionLibrary-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },

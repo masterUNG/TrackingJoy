@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/build/intermediates/res/merged/debug/mipmap-xhdpi/user.png",
+        "source": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/src/main/res/mipmap-xhdpi/user.png"
+    },
+    {
+        "merged": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/build/intermediates/res/merged/debug/mipmap-xhdpi/password.png",
+        "source": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/src/main/res/mipmap-xhdpi/password.png"
+    },
+    {
         "merged": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/masterUNG/Desktop/JoyProject/TrackingJoy/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
