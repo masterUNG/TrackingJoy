@@ -7,6 +7,7 @@ import android.os.AsyncTask;
  * Created by masterUNG on 1/31/2017 AD.
  */
 
+
 public class MySynchronize extends AsyncTask<String, Void, String>{
 
     //Explicit
